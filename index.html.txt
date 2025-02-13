@@ -1,0 +1,41 @@
+
+This is just a txt file 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Steve Jobs - Entrepreneurial Journey</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f5f5f5; }
+        header { background-color: #333; color: white; text-align: center; padding: 20px; font-size: 24px; }
+        .container { width: 80%; margin: auto; padding: 20px; }
+        section { background: white; margin: 20px 0; padding: 15px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); }
+        h2 { color: #333; }
+        footer { text-align: center; padding: 10px; background-color: #333; color: white; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>Steve Jobs - Entrepreneurial Journey</header>
+    <div class="container">
+        <section>
+            <h2>Early Life</h2>
+            <p>Steve Jobs was born on February 24, 1955, in San Francisco, California. He was adopted by Paul and Clara Jobs and grew up in Silicon Valley. From an early age, Jobs showed interest in electronics and computers, which later shaped his career.</p>
+        </section>
+        <section>
+            <h2>Goals</h2>
+            <p>Jobs aimed to revolutionize technology by making computers and devices accessible and user-friendly. His vision was to merge design and technology to create innovative products that changed how people interact with technology.</p>
+        </section>
+        <section>
+            <h2>Success</h2>
+            <p>Steve Jobs co-founded Apple Inc. in 1976 with Steve Wozniak. He played a key role in launching groundbreaking products like the Macintosh, iPod, iPhone, and iPad. His leadership transformed Apple into one of the world's most valuable companies.</p>
+        </section>
+        <section>
+            <h2>Ending Life</h2>
+            <p>Jobs was diagnosed with pancreatic cancer in 2003. Despite battling the illness, he continued working until August 2011, when he resigned as Apple's CEO. He passed away on October 5, 2011, leaving behind a lasting legacy in technology and innovation.</p>
+        </section>
+    </div>
+    <footer
+    </footer>
+</body>
+</html>
