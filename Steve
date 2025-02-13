@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Steve Jobs - Life & Legacy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+            background: white;
+        }
+        h2 {
+            color: #555;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #333;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Steve Jobs - Life & Legacy</h1>
+    </header>
+    <div class="container">
+        <section>
+            <h2>Early Life</h2>
+            <p>Steve Jobs was born on February 24, 1955, in San Francisco, California. He was adopted by Paul and Clara Jobs. From a young age, he showed an interest in electronics and technology, which led him to work with Steve Wozniak in developing early computers.</p>
+        </section>
+        <section>
+            <h2>Success</h2>
+            <p>In 1976, Jobs co-founded Apple Inc. with Steve Wozniak and Ronald Wayne. The company revolutionized personal computing with the Apple I, Apple II, and later the Macintosh. After being ousted from Apple in 1985, he founded NeXT and acquired Pixar, which became a major animation powerhouse. Returning to Apple in 1997, Jobs led the company to unprecedented success with the iMac, iPod, iPhone, and iPad.</p>
+        </section>
+        <section>
+            <h2>End of Life</h2>
+            <p>Steve Jobs was diagnosed with pancreatic cancer in 2003. He continued to work at Apple, leading innovations until his resignation as CEO in August 2011. He passed away on October 5, 2011, leaving behind a legacy of innovation and visionary leadership.</p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2025 Steve Jobs Tribute</p>
+    </footer>
+</body>
+</html>
